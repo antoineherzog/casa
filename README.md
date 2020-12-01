@@ -19,6 +19,12 @@ The CASA have the only goal to organize working group, be a place where all prop
 
 The CASA has three levels of participant structure:
 
+| Role                            | Description            |
+| :-------------                  | :-----------              |
+| Members            | All participants. Expected to participate in working groups. |
+| Working Groups            | Collections of members tackling specific areas of interest, such as Ceramic governance or identity. |
+| Maintainers                    | Members that run CASA meetings (not working group meetings) and ensure overall integrity of process. |
+
 ## **Meetings**
 
 ### **CASA Meetings**
@@ -39,18 +45,26 @@ CASA members self-organize into topic-based working groups. Individual working g
 
 ### **List of working groups**
 
+| Working Group                   | Status                    | Description | Related to CAIP |
+| :-------------                  | :-----------              | :---------- |
+| `CAIPs discussion`            | Active                    | TBC |  N/A |
+| `Asset Registry`                      | Active                    | TBC  | CAIP-19 |
 
 ### **How to form a new working group**
 
 1. Join the CASA.
-2. Create a charter for your working group.
-3. Submit a Pull Request to the CASA repository adding your working group and charter. (See [here](https://github.com/ceramicnetwork/CEA/blob/master/working-groups) for examples.)
+2. Create a [charter](templates/charter-template.md) for your working group.
+3. Submit a Pull Request to the CASA repository adding your working group and charter.(See [here](working-groups) for examples.)
 4. Propose your working group at the next CASA meeting. If approved, your PR will be merged,  your working group meeting schedule (specified in the charter) will be added to the CASA calendar.
 5. Recruit participants for your working group.
 
 ## **Members**
 
 Below, find a list of all members and their organizations.
+
+| Organizations                     | Members        |
+| :-------------                    | :-----------   |
+| Add your organisation here      | Add your name here |
 
 ## **Join the CASA**
 
