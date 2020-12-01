@@ -53,8 +53,8 @@ CASA members self-organize into topic-based working groups. Individual working g
 ### **How to form a new working group**
 
 1. Join the CASA.
-2. Create a [charter](templates/charter-template.md) for your working group.
-3. Submit a Pull Request to the CASA repository adding your working group and charter.(See [here](working-groups) for examples.)
+2. Create a Charter for your working group.
+3. Submit a Pull Request to the CASA repository adding your working group and charter.
 4. Propose your working group at the next CASA meeting. If approved, your PR will be merged,  your working group meeting schedule (specified in the charter) will be added to the CASA calendar.
 5. Recruit participants for your working group.
 
