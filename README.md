@@ -62,9 +62,9 @@ CASA members self-organize into topic-based working groups. Individual working g
 
 Below, find a list of all members and their organizations.
 
-| Organizations                     | Members        |
-| :-------------                    | :-----------   |
-| Add your organisation here      | Add your name here |
+| Organizations                     | Members        | Status       | Working groups |
+| :-------------                    | :-----------   | :-----------   | :-----------   |
+| Add your organisation here      | Add your name here | Member | CAIPs discussion    |
 
 ## **Join the CASA**
 
