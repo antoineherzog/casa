@@ -47,7 +47,7 @@ CASA members self-organize into topic-based working groups. Individual working g
 
 | Working Group                   | Status                    | Description | Related to CAIP |
 | :-------------                  | :-----------              | :---------- | :---------- |
-| `CAIPs discussion`            | Active                    | TBC |  N/A |
+| `CAIPs discussion`            | Active                    | TBC |  All |
 | `Asset Registry`                      | Active                    | TBC  | CAIP-19 |
 
 ### **How to form a new working group**
