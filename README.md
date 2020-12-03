@@ -74,7 +74,6 @@ Below, find a list of all members and their organizations.
 
 The CASA is currently will wait debut his work on the year 2021. We wait for members to come to constitute the first working groups. 
 
-1. Fill out [this 30 second form](https://antoineherzog.typeform.com/to/AZaapwNL)
-2. Submit a Pull Request to this repository adding yourself to the members table above.
+1. Submit a Pull Request to this repository adding yourself to the members table above.
 
 Once a maintainer has confirmed you have completed the previous two steps, they will merge your PR and send you a welcome email containing your invitations to the **CASA Call Calendar** and **Discord**.
